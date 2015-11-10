@@ -1,6 +1,7 @@
 # Seeking 2016 interns
+## The Tampa Bay Times
 
-The Tampa Bay Times data team is looking for fantastic young data journalists, web designers and news-minded hackers to be interns or fellows with us in 2016.
+The <em>Tampa Bay Times</em> data team is looking for fantastic young data journalists, web designers and news-minded hackers to be interns or fellows with us in 2016.
 
 Our seven-person team analyzes data to [inform and improve the world](http://www.tampabay.com/projects/2015/investigations/pinellas-failure-factories/5-schools-segregation/). We also use web development to experiment with better ways to [tell news stories online](http://www.tampabay.com/projects/2015/investigations/florida-mental-health-hospitals/cuts/). And we write computer code that helps our traditional newsroom do impactful journalism in a digital era — in both how we find stories and how we present them.
 
@@ -17,14 +18,17 @@ We’re offering three-month internships at $450 a week, dates flexible. For the
 Sound like you? Send us:
 
 * A resume
-* A cover letter. Tell us what your dream internship on our team would look like. Then pick one thing from [this list of projects our paper has done](https://docs.google.com/document/d/15QzBZ7DSXrIcyotLoDG0L8e9QwQfkG38w7QHPPpaKEM/pub), and tell us how your skills could have helped make it better.
+* A cover letter. Tell us what your dream internship on our team would look like. Then pick one thing from [this list of projects our paper has done](https://docs.google.com/document/d/15QzBZ7DSXrIcyotLoDG0L8e9QwQfkG38w7QHPPpaKEM/edit?usp=sharing), and tell us how your skills could have helped make it better.
 * Clips/work samples. A clip could be a published story, a web page you built, a graphic you made or your GitHub account. It could be a crazy multitenancy Node.js app. It could be a really gripping flowchart. Show us your best work, whatever form it takes.
 
 Email your application by end of day Sunday, Dec. 6, with the subject line “data team internship,” to:
 
 [Adam Playford](http://twitter.com/adamplayford)
+
 Director of Data and Digital Enterprise
+
 [aplayford@tampabay.com](mailto:aplayford@tampabay.com)
+
 
 Feel free to reach out with questions. You can also contact the members of our team who came here as recent interns: [Alex Sanchez](https://twitter.com/alxnsnchz), [Nathaniel Lash](http://twitter.com/Nat_Lash) and [Eli Murray](https://twitter.com/eli_mur).
 
