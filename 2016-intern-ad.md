@@ -1,6 +1,6 @@
 # Seeking 2016 interns
 
-**The <em>Tampa Bay Times</em> data team is looking for fantastic young data journalists, web designers and news-minded hackers to be interns or fellows with us in 2016.**
+**The <em>Tampa Bay Times</em> data team is looking for fantastic budding data journalists, web designers and news-minded hackers to be interns or fellows with us in 2016.**
 
 Our seven-person team analyzes data to [inform and improve the world](http://www.tampabay.com/projects/2015/investigations/pinellas-failure-factories/5-schools-segregation/). We also use web development to experiment with better ways to [tell news stories online](http://www.tampabay.com/projects/2015/investigations/florida-mental-health-hospitals/cuts/). And we write computer code that helps our traditional newsroom do impactful journalism in a digital era — in both how we find stories and how we present them.
 
